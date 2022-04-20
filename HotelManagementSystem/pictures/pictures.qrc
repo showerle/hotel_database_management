@@ -1,0 +1,15 @@
+<RCC>
+  <qresource>
+    <file>delete.png</file>
+    <file>insert.png</file>
+    <file>search1.png</file>
+    <file>staff.png</file>
+    <file>staff2.png</file>
+    <file>staff3.png</file>
+    <file>staff4.png</file>
+    <file>staff5.png</file>
+    <file>logo.png</file>
+    <file>background.jpeg</file>
+    <file>swimmingpoo.jpeg</file>
+  </qresource>
+</RCC>

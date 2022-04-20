@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>logo.png</file>
+  </qresource>
+</RCC>
